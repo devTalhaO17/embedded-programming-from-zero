@@ -1,0 +1,71 @@
+                                                                                                                                
+# 1. Embedded Build Artifacts & Binaries                                                                                                                                                                                                                                                                   
+*.o                                                                                                                                                                              
+*.obj                                                                                                                                                                            
+*.d                                                                                                                                                                              
+*.a                                                                                                                                                                              
+*.so                                                                                                                                                                             
+*.dylib                                                                                                                                                                          
+*.dll                                                                                                                                                                            
+                                                                                                                                                                                    
+# Firmware Output Formats                                                                                                                                                        
+*.elf                                                                                                                                                                            
+*.bin                                                                                                                                                                            
+*.hex                                                                                                                                                                            
+*.map                                                                                                                                                                            
+*.axf                                                                                                                                                                            
+*.srec                                                                                                                                                                           
+*.lss                                                                                                                                                                            
+*.sym                                                                                                                                                                            
+*.i                                                                                                                                                                              
+*.s                                                                                                                                                                              
+                                                                                                                                                                                    
+# Build Output Directories                                                                                                                                                       
+build/                                                                                                                                                                           
+bin/                                                                                                                                                                             
+out/                                                                                                                                                                             
+dist/                                                                                                                                                                            
+CMakeFiles/                                                                                                                                                                      
+CMakeCache.txt                                                                                                                                                                   
+cmake_install.cmake                                                                                                                                                              
+Makefile.in                                                                                                                                                                      
+compile_commands.json                                                                                                                                                            
+                                                                                                                                                                                    
+                                                                                                                            
+# 2. Host Unit Testing Artifacts                                                                                                                                                 
+                                                                                                                                
+test_runner                                                                                                                                                                      
+*.test                                                                                                                                                                           
+*.gcda
+*.gcno
+*.gcov
+coverage/
+
+# 3. Logic Analyzer & Trace Logs
+
+*.vcd
+*.pcap
+
+
+# 4. IDEs, Editors & Toolchains
+
+.vscode/.browse.c_cpp.db*
+.vscode/ipch/
+.idea/
+*.swp
+*.swo
+*~
+*.bak
+
+
+# 5. OS & System Files
+
+.DS_Store
+Thumbs.db
+
+
+# 6. Local Books & Large Docs
+/book/
+/books/
+*.pdf
+*.epub
