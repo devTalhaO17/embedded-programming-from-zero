@@ -12,7 +12,8 @@ simulation/electronics-experiments/
 └── make-electronics/                  # Experiments from "Make: Electronics" (Charles Platt)
     ├── exp-01-taste-the-power.txt     # Experiment 1: Voltage & Current
     ├── exp-02-battery-abuse.txt       # Experiment 2: Short circuits, heat & resistance
-    └── exp-03-first-circuit.txt       # Experiment 3: Ohm's Law & Multimeter
+    ├── experiment-03-apply-pressure.txt# Experiment 3: First Circuit & LEDs
+    └── exp-04-variable-resistance.txt # Experiment 4: Variable Resistance & Diodes
 ```
 
 ---
