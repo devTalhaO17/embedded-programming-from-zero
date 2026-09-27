@@ -6,6 +6,19 @@ This repository follows the **Layered Embedded Monorepo** architecture: separati
 
 ---
 
+## 📝 Authentic Proof of Work & Learning Disclaimer (Author: zeros017)
+
+> [!IMPORTANT]
+> **Active Learning Journal & Proof of Work**: The handwritten notes, physical calculation logs, circuit simulation files, and PDF submissions (e.g., [`Day 01 Proof of work`](docs/month-01-foundations/week-01/day-01/), [`Day 02 Proof of work.pdf`](docs/month-01-foundations/week-01/day-02/Day%2002%20Proof%20of%20work.pdf), [`Day 03 proof of work.pdf`](docs/month-01-foundations/week-01/day-03/Day%2003%20proof%20of%20work.pdf)) serve as concrete **proof of active, hands-on learning** by **zeros017**. This repository is not a generic AI-generated dump—it is a live, rigorous study framework and personal progress log.
+>
+> **Study Guide & Disclaimer for Readers**: This repository is designed to serve as an execution guide and roadmap. **Do not blindly follow or accept any single material at face value.** Fellow learners are strongly advised to:
+> 1. Perform independent, first-principles research.
+> 2. Read the recommended foundational textbooks directly (*The C Programming Language 2nd Ed.*, *Effective C*, *Make: Electronics*, *Fundamentals of Electric Circuits*, *Mastering STM32*).
+> 3. Verify circuit physics in interactive simulators (Falstad, Wokwi) or physical hardware breadboards.
+> 4. Test, compile, and debug C firmware code on your own GCC compiler and microcontroller hardware setup.
+
+---
+
 ## 🏛️ Strategic Value: The Hardware Moat (2026–2035)
 
 In an era where generative tools automate high-level software development, Embedded Systems Engineering stands as a structural **"Hardware Moat"** anchored by four pillars:

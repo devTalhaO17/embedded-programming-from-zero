@@ -13,7 +13,8 @@ Day 01 is structured into three dedicated documents:
 | Document | File | Core Content |
 | :--- | :--- | :--- |
 | **Track 1: Electronics Theory** | [`01-electronics-theory.md`](01-electronics-theory.md) | Electric Charge ($Q$), Current ($I$), Voltage ($V$), Resistance ($R$), Ohm's Law ($V = IR$), Power Dissipation ($P = VI$), LED Forward Voltage ($V_f$), and Current-Limiting Resistors. |
-| **Track 2: C Programming Theory** | [`02-c-programming-types.md`](02-c-programming-types.md) | Generic C type flaws in firmware, C99 `<stdint.h>` standard types (`uint8_t`, `uint16_t`, `uint32_t`), Memory Footprint, `sizeof()`, and Unsigned Register Rules. |
+| **Track 2: C Programming Theory** | [`02-c-programming-types.md`](02-c-programming-types.md) | Bare-metal vs desktop C, generic type flaws, C99 `<stdint.h>` types, `sizeof()`, and Two's complement representation. |
+
 | **Track 3: Completed Milestones** | [`completed-milestones.md`](completed-milestones.md) | Complete checklist of verified readings, simulated circuits, and mastered technical competencies for Day 01. |
 
 ---

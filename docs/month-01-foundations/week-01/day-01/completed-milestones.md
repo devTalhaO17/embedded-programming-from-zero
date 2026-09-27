@@ -54,3 +54,7 @@
 | **Fixed-Width Types** | Firmware | Understands why generic `int`/`long` fail in firmware and uses `<stdint.h>` exclusively. |
 | **Register Typing** | Firmware | Adheres to the rule of using `unsigned` types (`uint8_t`, `uint32_t`) for hardware registers. |
 | **Memory Footprint** | Firmware | Knows exact bit-width and byte size of `uint8_t` (1B), `uint16_t` (2B), `uint32_t` (4B). |
+| **Voltage to Logic** | Hardware/Firmware | Understands physical mapping of $0.0\,\text{V} \to \text{LOW (0)}$ and $3.3\,\text{V}/5.0\,\text{V} \to \text{HIGH (1)}$. |
+| **Two's Complement** | Firmware | Understands sign bit (MSB), bit inversion, and $+5 \to -5$ conversion arithmetic. |
+
+
