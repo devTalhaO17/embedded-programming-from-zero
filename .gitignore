@@ -34,7 +34,8 @@ compile_commands.json
                                                                                                                             
 # 2. Host Unit Testing Artifacts                                                                                                                                                 
                                                                                                                                 
-test_runner                                                                                                                                                                      
+test_runner
+tests/test_day*                                                                                                                                                                      
 *.test                                                                                                                                                                           
 *.gcda
 *.gcno
@@ -69,3 +70,7 @@ Thumbs.db
 /books/
 *.pdf
 *.epub
+
+
+# 7. AI Assistant Instructions & Local Rules
+instructionsetforai.md
